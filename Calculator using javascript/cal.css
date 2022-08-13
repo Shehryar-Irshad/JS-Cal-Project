@@ -1,0 +1,46 @@
+h1{
+	color: yellow;
+	font-family: 'Courier New', Courier, monospace;
+}
+body{
+	background: black;
+}
+.container{
+    text-align: center;
+    border: 100px;
+    border-radius: 100px;
+    border-color: blue;
+	
+}
+table{
+     margin: auto;
+     background: indigo;
+     border: 100px;
+     border-color: blue;
+	 border-radius:auto;
+}
+button{
+    font-display: center;
+    font-size: 30px;
+    width: 80px;
+    height: 70px;
+    background-color: grey;
+    border-radius: 30px;
+    padding: 40px;
+    
+
+}
+.calculator{ 
+    border: 4px solid #13695d;
+    background-color: indigo;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+    
+}
+input{
+	font-size:20px;
+    width: 360px;
+    height: 60px;
+    border-radius: 20px;
+}
